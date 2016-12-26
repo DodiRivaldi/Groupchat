@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "379045857787",
+    "firebase_url": "https://broad-campus.firebaseio.com",
+    "project_id": "broad-campus",
+    "storage_bucket": "broad-campus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379045857787:android:e1c015493b73aef5",
+        "android_client_info": {
+          "package_name": "com.kampus.developer.easykampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379045857787-bpgi3l7r8s7f4u2lpi72rp64hbjegj2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kampus.developer.easykampus",
+            "certificate_hash": "A23F0DC1718DF010DB5663C58838A648175AE866"
+          }
+        },
+        {
+          "client_id": "379045857787-h4q6qqjs78fa1g1g5lob1jdm15sa0c26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyBbj22Nl0WMkLOGyD-yuS6vRa4h1oC_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379045857787-h4q6qqjs78fa1g1g5lob1jdm15sa0c26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379045857787:android:268cf33152ff095d",
+        "android_client_info": {
+          "package_name": "developerkampus.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379045857787-53pqruq2097s6crhmnlk0caealsr6358.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developerkampus.groupchat",
+            "certificate_hash": "263A1FC654C298402DCE37C6F546CA613ED6E12E"
+          }
+        },
+        {
+          "client_id": "379045857787-dk1dknubfr4j6tdn571qn4uq3b9u9ke0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developerkampus.groupchat",
+            "certificate_hash": "DEC4D03DD32B3FD509E8854DC05A45502311DE09"
+          }
+        },
+        {
+          "client_id": "379045857787-19sel5gb4grk7eof2arg1u985b591rgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developerkampus.groupchat",
+            "certificate_hash": "F64E7B87853DF303B653C644198554D32CEF22B0"
+          }
+        },
+        {
+          "client_id": "379045857787-lmsnilg0ifupkajbo8v71t7ana9ac6a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developerkampus.groupchat",
+            "certificate_hash": "A23F0DC1718DF010DB5663C58838A648175AE866"
+          }
+        },
+        {
+          "client_id": "379045857787-h4q6qqjs78fa1g1g5lob1jdm15sa0c26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyBbj22Nl0WMkLOGyD-yuS6vRa4h1oC_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379045857787-h4q6qqjs78fa1g1g5lob1jdm15sa0c26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
